@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHub tutorial
+This is my humble attempt to learn GitHub. So far this isn't rocket science.
